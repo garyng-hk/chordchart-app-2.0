@@ -1,0 +1,6 @@
+
+{
+  "name": "YLGC 樂譜搜尋系統",
+  "description": "在指定的 Google Drive 資料夾中搜尋樂譜 (PDF 格式)。可依歌名、KEY 或歌詞進行搜尋。",
+  "requestFramePermissions": []
+}
